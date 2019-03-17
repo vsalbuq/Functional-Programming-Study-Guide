@@ -3,7 +3,7 @@ Based on Standardized Ladder of Functional Programming (LambdaConf)
 
 ## BEGINNER
 ### CONCEPTS
-- Immutable Data
+- [Immutable Data](/beginner/immutable-data/CONCEPTS.md)
 - Second-Order Functions
 - Constructoring & Destructuring
 - Function Composition
