@@ -20,11 +20,11 @@ When you look at programming, if something can be changed where you are not look
 
 Conclusion: **It is easier to reason about your code when you use immutable data.**
 
-## So... What is immutable data?
+## So... How can I apply this concept on JavaScript code?
 ~~write here~~
 
 
-## Evolution
+## Conclusion
 It is reasonable that 50 years ago people had to be extremely careful concerning the amount of space while storing data. But our storage technology has grown so much since then that companies around the world are literaly storing anything they can (big data). There were restrictive laws they should use to program at that time that are not true anymore.
 
 Imagine if you had to build a car a thousand times bigger. Probably the laws you would obey to build that would be far different from the ones people use now to build regular cars. This is the proportion of change we are talking about. Storage technology is far different from 50 years ago, but we still using those restrictions.
