@@ -21,7 +21,25 @@ When you look at programming, if something can be changed where you are not look
 Conclusion: **It is easier to reason about your code when you use immutable data.**
 
 ## So... How can I apply this concept on JavaScript code?
+
+- Two ways of assignment:
+  - Primary types (string, bool, number): the value is passed.
+  - Complex types (objects): the reference is passed (memory pointer).
+  
+1. Freeze your objects
+2. Const everything
+3. Make new instances instead of changing things
+4. Libraries: Immutable.js, Mori
 ~~write here~~
+Sources:
+- https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze
+- https://immutable-js.github.io/immutable-js/
+- http://swannodette.github.io/mori/
+- https://www.sitepoint.com/immutability-javascript/
+- https://gomakethings.com/immutability-in-javascript/
+- https://gomakethings.com/immutability-in-javascript/
+- https://gomakethings.com/how-to-handle-immutability-in-javascript/
 
 
 ## Conclusion
